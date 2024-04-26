@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi I'm Ziad Seleem</h1>
 <h3 align="center">I'm a Software Engineer specifically "Android Developer", Love programming since my born</h3>
 
-- 🔭 I’m currently working on [islami](https://github.com/ziad328/islami) and [Chat App](https://github.com/ziad328/Chat_App)
+- 🔭 I’m currently working on [Chat App](https://github.com/ziad328/Chat_App)
 
 - 💬 Ask me about **Android Development**
 
