@@ -1,9 +1,9 @@
 <h1 align="center"> 👋 Hi I'm Ziad Seleem</h1>
-<h3 align="center">I'm a Software Engineer specifically "Android Developer", Love programming since my born</h3>
+<h3 align="center">I'm a Software Engineer, Love programming since my born</h3>
 
-- 🔭 I’m currently working on [ChattterBox](https://github.com/ziad328/ChatterBox)
+- 🔭 I’m currently working on [First react app](https://github.com/ziad328/First-ReactApp)
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Android Development , FrontEnd(React.js)**
 
 - 📫 How to reach me **ziad32seleem@gmail.com**
 
