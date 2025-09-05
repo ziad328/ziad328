@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [StreamFlow](https://github.com/ziad328/Stream_Flow)
 
-- 💬 Ask me about **Android Development , FrontEnd(React.js)**
+- 💬 Ask me about **FrontEnd(React.js) , Android Development**
 
 - 📫 How to reach me **ziad32seleem@gmail.com**
 
