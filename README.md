@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ding Platform](https://github.com/Ding-Platform)
 
-- 💬 Ask me about **FrontEnd(React.js) , Android Development**
+- 💬 Ask me about **Frontend(React.js) , Android Development**
 
 - 📫 How to reach me **ziad32seleem@gmail.com**
 
