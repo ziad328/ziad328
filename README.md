@@ -35,6 +35,7 @@ I am a passionate **Software Engineer** specializing in building immersive digit
 <p align="center">
   <img src="https://github-readme-stats-rho-liard-66.vercel.app/api/top-langs/?username=ziad328&layout=compact&theme=tokyonight&hide=css,shell&card_width=350&cache_seconds=1801" alt="Top Languages" width="350" />
 </p>
+
 ---
 
 ### 🛠️ Tech Stack & Skills
