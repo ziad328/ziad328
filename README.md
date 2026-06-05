@@ -28,12 +28,12 @@ I am a passionate **Software Engineer** specializing in building immersive digit
 
 ### 👀 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziad328&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1801" alt="Ziad's Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziad328&theme=tokyonight&cache_seconds=1801" alt="Ziad's Streak" height="150" />
+  <img src="https://github-readme-stats-rho-liard-66.vercel.app/api?username=ziad328&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1801" alt="Ziad's Stats" height="150" />
+  <img src="https://github-readme-stats-rho-liard-66.vercel.app/?user=ziad328&theme=tokyonight&cache_seconds=1801" alt="Ziad's Streak" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziad328&layout=compact&theme=tokyonight&hide=css,shell&card_width=350&cache_seconds=1801" alt="Top Languages" width="350" />
+  <img src="https://github-readme-stats-rho-liard-66.vercel.app/api/top-langs/?username=ziad328&layout=compact&theme=tokyonight&hide=css,shell&card_width=350&cache_seconds=1801" alt="Top Languages" width="350" />
 </p>
 
 ---
