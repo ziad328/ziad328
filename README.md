@@ -18,7 +18,7 @@
 
 ###  About Me
 
-I am a passionate **Software Engineer** specializing in building immersive digital experiences. From high-performance 3D web applications to scalable mobile ecosystems, I focus on the intersection of clean code and creative UI.
+I’m a software engineer who loves building interactive web experiences. Over the past couple of years creating projects, I’ve focused on combining clean code with modern UI design—especially when it comes to high-performance 3D web apps.
 
 - 🌍 **Portfolio:** [ziad-seleem-portfolio.vercel.app](https://ziad-seleem-portfolio.vercel.app/)
 - 🚀 **Currently working on:** [Ding Platform](https://github.com/Ding-Platform) — An AI-driven social ecosystem.
