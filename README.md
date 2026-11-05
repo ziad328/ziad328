@@ -22,7 +22,7 @@ I’m a software engineer and the founder of [STELA](https://stela-studio.vercel
 
 - 🌍 **Studio:** [stela-studio.vercel.app](https://stela-studio.vercel.app/)
 - 📅 **Work with me:** [Book a call](https://stela-studio.vercel.app/#contact)
-- 🚀 **Currently working on:** [Ding Platform](https://github.com/Ding-Platform) — An AI-driven social ecosystem.
+- 🚀 **Currently working on:** [STELA](https://stela-studio.vercel.app/), my software engineering studio and its website.
 - 💬 **Ask me about:** Frontend (React.js), Mobile-Web UI/UX, Android Development, and Game Development.
 
 ---
