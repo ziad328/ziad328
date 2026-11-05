@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=5388CE&center=true&vCenter=true&width=500&lines=👋+Hi,+I'm+Ziad+Seleem;Founder+of+STELA;Software+Engineer;Frontend+%26+Mobile+Specialist;Game+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=5388CE&center=true&vCenter=true&width=500&lines=👋+Hi,+I'm+Ziad+Seleem;Software+Engineer;Frontend+%26+Mobile+Specialist;Game+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://stela-studio.vercel.app/" target="blank">
-    <img src="https://img.shields.io/badge/STELA-5388ce?style=for-the-badge&logo=reactos&logoColor=white" alt="STELA" />
+  <a href="https://ziad-seleem-portfolio.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-5388ce?style=for-the-badge&logo=reactos&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ziadseleem" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -18,10 +18,9 @@
 
 ###  About Me
 
-I’m a software engineer and the founder of [STELA](https://stela-studio.vercel.app/), a software engineering studio building fast, interactive web and mobile products. I love building interactive web experiences. Over the past couple of years creating projects, I’ve focused on combining clean code with modern UI design—especially when it comes to high-performance 3D web apps.
+I’m a software engineer who loves building interactive web experiences. Over the past couple of years creating projects, I’ve focused on combining clean code with modern UI design—especially when it comes to high-performance 3D web apps.
 
-- 🌍 **Studio:** [stela-studio.vercel.app](https://stela-studio.vercel.app/)
-- 📅 **Work with me:** [Book a call](https://stela-studio.vercel.app/#contact)
+- 🌍 **Portfolio:** [ziad-seleem-portfolio.vercel.app](https://ziad-seleem-portfolio.vercel.app/)
 - 🚀 **Currently working on:** [Ding Platform](https://github.com/Ding-Platform) — An AI-driven social ecosystem.
 - 💬 **Ask me about:** Frontend (React.js), Mobile-Web UI/UX, Android Development, and Game Development.
 
