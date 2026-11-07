@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ziad-seleem-portfolio.vercel.app/" target="blank">
+  <a href="https://stela-studio.vercel.app/" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-5388ce?style=for-the-badge&logo=reactos&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ziadseleem" target="blank">
@@ -20,7 +20,7 @@
 
 I’m a software engineer who loves building interactive web experiences. Over the past couple of years creating projects, I’ve focused on combining clean code with modern UI design—especially when it comes to high-performance 3D web apps.
 
-- 🌍 **Portfolio:** [ziad-seleem-portfolio.vercel.app](https://ziad-seleem-portfolio.vercel.app/)
+- 🌍 **Portfolio:** [stela-studio.vercel.app](https://stela-studio.vercel.app/)
 - 🚀 **Currently working on:** [Ding Platform](https://github.com/Ding-Platform) — An AI-driven social ecosystem.
 - 💬 **Ask me about:** Frontend (React.js), Mobile-Web UI/UX, Android Development, and Game Development.
 
